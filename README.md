@@ -3,8 +3,12 @@ This is a simple login logout flutter project from API
 
 Might act as a good starting point for your future works.
 
+I have been only working on UI for long time and decided to venture on Authentication a little bit
+
 Make sure you follow me and I follow you so that we learn from each other
 
+## To do
+Work on the register page
 
 ## Getting Started
 
